@@ -4,7 +4,7 @@
 
 votex is a simple program which helps you to find the right vote for you in order to study less.
 written by a student for students, is a simple life changin' program.
-## not sure wether to study or not? 
+## not sure weather to study or not? 
 just open a term and run `votexx-1 find v1 v2 v3`  and you'll immediately get the lowest possible vote in order to have 6 of mean, which, in most of europe's states is the least sufficient threshold in order to not be sent back to the year before lfmao.
 ## boring syntax:
 usage:  
